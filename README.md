@@ -22,3 +22,11 @@
 Just Install This Repo 
 ```
 
+<p align="center">
+<img src="index.gif"/>
+</p>
+
+<p align="center">
+<img src="about.gif"/>
+</p>
+
