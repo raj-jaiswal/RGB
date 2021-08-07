@@ -7,19 +7,14 @@
 
 
 
-<p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
+<p align="center">A HTML + CSS template for a website</p>
 
 ##
 
 ### Features
 
-- Latest and updated login pages.
-- Mask URL support 
-- Beginners friendly
-- Docker support (checkout `docker-legacy` branch)
-- Multiple tunneling options
-  - Localhost
-  - Ngrok (With or without hotspot)
+- RGB
+- 3 Different pages (index, about , Github)
 
 
 ### Installation
