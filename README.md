@@ -1,4 +1,5 @@
-<!-- Zphisher -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danny-05&label=Profile%20views&color=0e75b6&style=flat" alt="danny-05" /> </p>
+
 
 <p align="center">
   <img src="3.gif">
